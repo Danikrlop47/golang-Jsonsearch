@@ -65,6 +65,3 @@ if err := db.Delete("fish", ""); err != nil {
 - Better support for sub collections
 - More methods to allow different types of reads/writes
 - More tests (you can never have enough!)
-
-## Contributing
-Contributions to scribble are welcome and encouraged. Scribble is a [Nanobox](https://nanobox.io) project and contributions should follow the [Nanobox Contribution Process & Guidelines](https://docs.nanobox.io/contributing/).
